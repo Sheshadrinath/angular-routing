@@ -1,0 +1,16 @@
+.login-container {
+    border: 1px solid black;
+    width: 250px;
+    height: 100px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+}
+
+.login-container div {
+    margin: 10px;
+}
+
+input {
+    width: 200px;
+}
