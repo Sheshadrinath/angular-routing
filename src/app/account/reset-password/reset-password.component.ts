@@ -13,7 +13,7 @@ export class ResetPasswordComponent implements OnInit {
   }
 
   saved(): boolean {
-    return false;
+    return true;
   }
 
 }
