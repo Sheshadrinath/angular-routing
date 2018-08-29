@@ -12,4 +12,8 @@ export class ResetPasswordComponent implements OnInit {
   ngOnInit() {
   }
 
+  saved(): boolean {
+    return false;
+  }
+
 }
